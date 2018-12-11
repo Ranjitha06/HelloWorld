@@ -1,0 +1,7 @@
+** Software development cycle: **
+* Gather requirements
+* Requirment Specification
+* Design
+* Develop
+* Test
+* Deployment
