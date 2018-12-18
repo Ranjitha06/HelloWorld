@@ -1,4 +1,4 @@
-## __Basic keywords to be familiar while using git__
+## *__Basic keywords to be familiar while using git__*
 * HEAD
 * Repositories(Local and Remote repositories)
 * Stage/Index
